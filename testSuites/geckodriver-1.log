@@ -1,0 +1,9 @@
+1664468508771	geckodriver	INFO	Listening on 127.0.0.1:52290
+1664468511843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Shalvie\\AppData\\Local\\Temp\\rust_mozprofileOjPGqp"
+1664468512334	Marionette	INFO	Marionette enabled
+1664468512341	Marionette	INFO	Listening on port 52316
+Read port: 52316
+1664468512512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shalvie\\AppData\\Local\\Temp\\rust_mozprofileOjPGqp\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.service.nsw.gov.au."
+1664468529948	Marionette	INFO	Stopped listening on port 52316

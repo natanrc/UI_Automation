@@ -1,0 +1,3 @@
+txt_search: (//input[@aria-controls='homeautosuggestWw-goykkslYList'])[1]
+btn_search: //div[@data-personalisation-type='default']//button[@aria-label='Search']
+page_title: (//h1[normalize-space()='Search'])[1]

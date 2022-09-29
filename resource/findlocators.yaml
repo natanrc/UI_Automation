@@ -1,0 +1,7 @@
+logo: //div[@class="GlobalHeader__main-ORzg9dkzx0"]
+pg_find: //ul[@class='MainNav__list-peZtddYtxn']//a[@class='NavLink__link-M-HSy9SYcc'][normalize-space()='Find locations']
+page_title: (//h1[normalize-space()='Find a Service NSW location'])[1]
+txt_search: (//input[@id='locatorTextSearch'])[1]
+btn_find: //button[@class="button button--primary button--xxlarge"]
+txt_contain: //div[@class="locator__results-list"]
+btn_close: //button[@class="sitewide-notice__close"]
