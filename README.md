@@ -30,6 +30,6 @@ Tools:
 
   Implement Data Driven test to find location (suburb
 
-  *) <a href="https://raw.githack.com/natanrc/POM_RobotFR_Automation/main/TC_Login_report.html">validate menu searching page</a>
+  *) <a href="https://rawcdn.githack.com/natanrc/UI_Automation/6894cfbff15e5052a92cca0d76f66f42380d13db/log_enterSuburb.html">validate find location</a>
 
 #
